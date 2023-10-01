@@ -1,6 +1,6 @@
 {
-	"name": "svelte-headless-table",
-	"description": "Unopinionated and extensible data tables for Svelte",
+	"name": "interactive-table",
+	"description": "Opinionated and extensible data tables for Soleda",
 	"version": "0.17.5",
 	"scripts": {
 		"dev": "vite dev",
@@ -16,30 +16,30 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/bryanmylee/svelte-headless-table.git"
+		"url": "git+ssh://git@github.com/derekchen14/interactive-table.git"
 	},
 	"keywords": [
 		"svelte",
 		"table",
 		"datagrid",
 		"datatable",
-		"headless",
 		"plugin",
 		"sorting",
 		"filtering",
 		"ordering",
-		"hiding",
+		"sheets",
 		"grouping",
+		"merging",
 		"selecting",
 		"expanding",
 		"resizing"
 	],
-	"author": "Bryan Lee",
+	"author": "Derek Chen",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/bryanmylee/svelte-headless-table/issues"
 	},
-	"homepage": "https://svelte-headless-table.bryanmylee.com",
+	"homepage": "https://www.morethanoneturn.com",
 	"devDependencies": {
 		"@babel/core": "7",
 		"@babel/preset-env": "^7.17.10",
